@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <title>Cine Selector</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="header">
+      <h1>🎬 CINEMA</h1>
+      <button class="btn-random" onclick="seleccionarAleatoria()">
+        🎲 ¿Qué vemos hoy?
+      </button>
+    </div>
+
+    <div id="contenedor" class="grid"></div>
+
+    <div id="modal">
+      <div class="modal-content">
+        <span class="close" onclick="cerrarModal()">&times;</span>
+        <div id="modal-data" class="modal-body"></div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
