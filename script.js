@@ -3,7 +3,6 @@ const listaPeliculas = [
   "Lo que el viento se llevó",
   "American History X",
   "Match Point",
-  "La sombra de una duda",
   "L.A. Confidential",
   "Conspiracy Theory",
   "Extraños en un tren",
