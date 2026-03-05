@@ -28,6 +28,7 @@ const listaPeliculas = [
   "El juicio de los 7 de Chicago",
   "La red social",
   "La sociedad de la nieve",
+  "Un mundo perfecto",
 ];
 
 let peliculasData = []; // Guardaremos los objetos aquí
