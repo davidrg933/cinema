@@ -2,7 +2,6 @@ const API_KEY = "f9caacb6f3ed78ecb37325173896724f";
 const listaPeliculas = [
   "Lo que el viento se llevó",
   "American History X",
-  "Match Point",
   "L.A. Confidential",
   "Conspiracy Theory",
   "Extraños en un tren",
