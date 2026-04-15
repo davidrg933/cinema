@@ -16,7 +16,6 @@ const listaPeliculas = [
   "El sueño eterno",
   "La dama de Shangai",
   "En bandeja de plata",
-  "El crepúsculo de los dioses",
   "El secreto de sus ojos",
   "The client",
   "The Adventures of Robin Hood",
